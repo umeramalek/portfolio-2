@@ -11,6 +11,12 @@ made a rough hand sketch of how I wanted my website to look like. And found the 
 3. There was an inbuilt javascript within the template 
 4. Added an additional resume to it! Check it out!
 
+### Code Snippets
+![](assets/imgs/port-2.gif)
+![](assets/imgs/photo1.png)
+![](assets/imgs/photo2.png)
+![](assets/imgs/photo3.png)
+![](assets/imgs/photo4.png)
 
 
 ## Built With
