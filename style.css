@@ -113,6 +113,10 @@ body {
     transform: scale(1.25);
 }
 
+.btn:hover {
+    transform: scale(1.25);
+}
+
 hr {
   margin: 1rem 0;
   color: inherit;
@@ -358,7 +362,9 @@ label {
   display: inline-block;
 }
 
-
+.btn:hover {
+    transform: rotate();
+}
 
 button {
   border-radius: 0;
